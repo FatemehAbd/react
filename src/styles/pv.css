@@ -1,0 +1,12 @@
+.bi-arrow-repeat{
+    margin-right: 0;
+    margin-left:auto;
+}
+.space{
+    height:100px;
+}
+.no-message-container{
+    position:absolute;
+    top:50%;
+    left:45%;
+}
